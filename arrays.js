@@ -21,4 +21,3 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.shift()
   array
 }
-
